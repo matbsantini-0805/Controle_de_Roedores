@@ -171,9 +171,9 @@ Este material foi criado para facilitar o trabalho de todos.
 
 ## 6️⃣ Créditos / Referências
 
-Matheus Santini
-Trainee de Produção — Bisavós
-📧 msanini@aviagen.com
+Matheus Santini   
+Trainee de Produção — Bisavós   
+📧 msantini@aviagen.com
 
 
 
