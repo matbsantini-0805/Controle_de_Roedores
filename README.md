@@ -71,9 +71,6 @@ O consumo numérico é calculado com base nas somas obtidas a partir dos registr
 O consumo indica no mapa o nível de consumo que a ratoeira apresenta, podendo ser:
 Negativo, Toque, Baixo, Médio ou Alto.
 
-## Legenda no mapa:
-🔴 Alto 🟡 Médio 🔵 Baixo 🟣 Toque 🗙 Negativo  
-
 A classificação é feita a partir do padrão abaixo:
 
 - Se `Status = "Toque"` → **Toque**
@@ -86,6 +83,9 @@ A classificação é feita a partir do padrão abaixo:
   - Se `Metade >= 1` → **Médio**
   - Se `Um quarto >= 2` → **Médio**
   - Se `Um quarto >= 1` → **Baixo**
+  
+  ## Legenda no mapa:
+🔴 Alto 🟡 Médio 🔵 Baixo 🟣 Toque 🗙 Negativo  
 
 ---
 
