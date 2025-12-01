@@ -125,7 +125,7 @@ A classificação é feita a partir do padrão abaixo:
 ## 3️⃣ Visualização Power BI
 
 Para abrir arquivos .pbix, é necessário ter o Power BI instalado.  
-Se não tiver acesso, solicitar instalação ao TI (via Microsoft Store).
+Se não tiver acesso, solicitar instalação ao TI (ou instalar via Microsoft Store).
 
 Como o Qlik é o software oficial da empresa, utilizamos apenas a versão gratuita do Power BI, sem recursos de compartilhamento online corporativo.
 
