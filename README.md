@@ -167,8 +167,8 @@ A guia *Evolução Mensal* exibe o consumo da unidade por data e área, permitin
 A guia de cada área mostra o **mapa interativo** das ratoeiras com a legenda de consumo, filtros de data e área, além da tabela com motivos de troca e observações.  
 
 Também há:
-- Gráfico de evolução de consumo por ratoeira  
-- Seleção direta via mapa ou tabela  
+- Gráfico de evolução de consumo por ratoeira (Para mostrar o consumo de uma ratoeira específica é necessário selecionar uma ratoeira na tabela ou no mapa) 
+- Visualização direta via mapa ou tabela  
 - Gráfico de evolução por área  
 
 <img width="750" height="581" alt="image" src="https://github.com/user-attachments/assets/57c9fddc-9f97-44a9-b2d6-bbf3ae6487e1" />
